@@ -121,7 +121,7 @@ class Ball:
         self.draw()
 
 
-# Create a list of balls
+# Create a ball
 ball = Ball()
 
 # Main game loop
